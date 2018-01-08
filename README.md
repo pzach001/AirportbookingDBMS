@@ -3,8 +3,8 @@ This program was created for the CS166(Database Management Systems Class) at UCR
 
 Introduction:
 	
-	this project was created using source code provided by the professor. His code was written in java and is basically a skeleton code so that we could use POSTGRESQL.
-  Our code was implementing the user functions and the POSTGRESQL Queries that the user functions run.
+	this project was created using source code provided by the professor. His code was written in java and is basically a skeleton code so that we could use POSTGRESQL. Our code was implementing the user functions and the POSTGRESQL Queries that the user functions run.
+  
 Description of Code:
 
 	This projects simulates an airport system connected to a database. The database has 4 tables, Airlines, Flight/Route, Passenger, and Rating. The code implemented has to do with 9 user functions which take in user input and then either displays or alters  through queries. 
